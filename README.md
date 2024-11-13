@@ -1,1 +1,2 @@
-# data-learning-algorithm
+# 思路
+ - 迁移内容.
